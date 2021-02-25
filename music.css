@@ -1,0 +1,47 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+
+ body {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     min-height: 100vh;
+     background: black;
+     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+     font-weight: 300;
+ }
+
+ .top {
+     color: white;
+     text-align: center;
+     padding-bottom: 20%;
+ }
+
+ .a1 {
+    color: white;
+    text-decoration: none;
+    padding-top: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+ }
+
+ .a2 {
+    color: white;
+    text-decoration: none;
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+ }
+
+.copyright {
+    color: white;
+    text-align: center;
+    padding-top: 40%;
+}
